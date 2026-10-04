@@ -1,8 +1,8 @@
 # 🛠️ Utility Hub
 
-A collection of useful tools and web apps — each solving a real problem, built from scratch.
+A collection of useful tools and web apps, each solving a real problem, built from scratch.
 
-🌐 **[View the hub →](https://xtekkis.github.io/utility-hub)**
+🌐 **[View the hub](https://xtekkis.github.io/utility-hub)**
 
 ---
 
@@ -12,7 +12,7 @@ A collection of useful tools and web apps — each solving a real problem, built
 |---|---|---|---|
 | ✈️ **Skymate** | AI-powered flight assistant. Search one-way & round trips and chat with an AI travel assistant. | React · TypeScript · Node.js | [Repo ↗](https://github.com/xtekkis/skymate) |
 | 🔗 **URL Shortener** | Backend service with click tracking, 24h expiry, web UI, and Docker support. | Go · Docker | [Repo ↗](https://github.com/xtekkis/url-shortener) |
-| 📋 **Habit Tracker** | Flask web app — add habits, log streaks, view calendar, export CSV. | Python · Flask · SQLite | [Repo ↗](https://github.com/xtekkis/habit-tracker) |
+| 📋 **Habit Tracker** | Flask web app. Add habits, log streaks, view calendar, export CSV. | Python · Flask · SQLite | [Repo ↗](https://github.com/xtekkis/habit-tracker) |
 
 ---
 
@@ -31,8 +31,8 @@ A collection of useful tools and web apps — each solving a real problem, built
 
 ## Also check out
 
-- [🕹️ Games Hub](https://xtekkis.github.io/games-hub) — browser games and experiments
-- [👤 Profile](https://github.com/xtekkis) — all projects
+- [🕹️ Games Hub](https://xtekkis.github.io/games-hub)
+- [👤 Profile](https://github.com/xtekkis)
 
 ---
 
